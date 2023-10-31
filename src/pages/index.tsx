@@ -8,6 +8,7 @@ export default function Home() {
     <>
       <h1>ホームページ</h1>
       <h2>コンテナに入りました</h2>
+      <h2>コンテナからのgithub接続確認</h2>
     </>
   )
 }
